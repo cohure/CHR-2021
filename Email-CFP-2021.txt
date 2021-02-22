@@ -47,7 +47,7 @@ To gain further insight into paper topics, please also refer to CHR2020 proceedi
 Overleaf has a word count functionality, or you can use the TexCount application: https://app.uio.no/ifi/texcount/
 
 >> Submission instructions and review process:
-- Submissions should be written in English and must be formatted according to the CHR latex template https://github.com/cohure/CoHuRe/raw/master/chr2020_latex_template.zip (see instructions on the forum to get you started here: https://discourse.computational-humanities-research.org/t/chr-latex-instructions/230).
+- Submissions should be written in English and must be formatted according to the CHR latex template https://github.com/cohure/CHR-2021/raw/main/chr2021_latex_template.zip (see instructions on the forum to get you started here: https://discourse.computational-humanities-research.org/t/chr-latex-instructions/230).
 - Submissions are to be submitted anonymously. All papers will be refereed through a double-blind peer review process by at least three reviewers with final acceptance decisions made by the conference organizers.
 - Paper should be submitted as PDF documents via the Easychair conference management system: https://easychair.org/conferences/?conf=chr2021.
 - At least one author of each accepted paper must register to the conference and present the paper.
