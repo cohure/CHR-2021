@@ -1,0 +1,83 @@
+=====================
+FORMATTING - TO CHECK
+- lines with '>> => the text should be in bold
+- links: either full/verbatim or hyperlinks, as you prefer
+- bullet lists: depends on mailer, to be checked on a case by case basis
+
+
+Email subject:  Call for Papers: Second Conference on Computational Humanities Research (CHR2021)
+
+Email body:
+
+***Apologies for cross-posting***
+
+>> Call for Papers CHR2021
+>> Second Conference on Computational Humanities Research (CHR2021)
+Dates: November 17 - November 19, 2021
+Venue: Online
+Website: https://2021.computational-humanities-research.org/
+Twitter: @CompHumResearch
+Hashtag: #chr2021
+Contact: info@computational-humanities-research.org
+
+>> Description:
+In the arts and humanities, the use of computational, statistical, and mathematical approaches has considerably increased in recent years. This research is characterized by the use of formal methods and the construction of explicit, computational models. This includes quantitative, statistical approaches, but also more generally computational methods for processing and analyzing data, as well as theoretical reflections on these approaches. Despite the undeniable growth of this research area, many scholars still struggle to find suitable research-oriented venues to present and publish computational work that does not lose sight of traditional modes of inquiry in the arts and humanities. This is precisely the scholarly niche that the CHR conference aims to fill. More precisely, the conference aims at:
+
+- Building a community of scholars working on humanities research questions relying on a wide range of computational and quantitative approaches to humanities data in all its forms. We consider this community to be complementary to the digital humanities landscape.
+- Promoting good practices through sharing “research stories”. Such good practices may include, for instance, the publication of code and data in order to support transparency and replication of studies; pre-registering research design to present theoretical justification, hypotheses, and proposed statistical analysis; or a redesign of the reviewing process for interdisciplinary studies that rely on computational approaches to answer questions relevant to the humanities.
+
+
+>> Topics of interest:
+We invite original research papers from a wide range of topics, including – but not limited to – the following:
+- Applications of statistical methods (machine learning) to process, enrich and analyse  humanities and cultural heritage data;
+- Hypothesis-driven humanities research;
+- Development of empirical methods for humanities research;
+- Modeling bias, uncertainty, and conflicting interpretation in the humanities;
+- Evaluation methods and development of standards;
+- Statistical evaluation of categorization / periodization;
+- Explanatory models for humanities research;
+- Theories for quantitative methods and computational humanities approaches;
+- Translation and transfer of methods from other disciplines, approaches to bridge humanistic and statistical interpretations.
+
+To gain further insight into paper topics, please also refer to CHR2020 proceedings: http://ceur-ws.org/Vol-2723/
+
+>> Submission types:
+- Long Papers: up to 6000 words (ca. 12 pages, references, abstract and tables/illustrations excluded), long papers report on completed, original and unpublished results. Brevity of argument is preferred. We welcome the use of appendices or other supplementary information.
+- Short Papers: up to 3000 words (ca. 6 pages references, abstract and tables/illustrations excluded), small papers report on  focussed contributions, and may present work in progress, negative results, and opinion pieces.
+Overleaf has a word count functionality, or you can use the TexCount application.
+
+>> Submission instructions and review process:
+- Submissions should be written in English and must be formatted according to the CHR latex template (see instructions on the forum to get you started here).
+- Submissions are to be submitted anonymously. All papers will be refereed through a double-blind peer review process by at least three reviewers with final acceptance decisions made by the conference organizers.
+- Paper should be submitted as PDF documents via the Easychair conference management system: https://easychair.org/conferences/?conf=chr2021.
+- At least one author of each accepted paper must register to the conference and present the paper.
+- Accepted papers will be submitted for publication to  the CEUR-WS Proceedings publication service.
+
+Authors are encouraged to openly share code and data. If the authors have created an openly available dataset associated with the research presented in the CHR2021 paper, in addition to the conference paper, they are welcome to submit a data paper describing their dataset in the Special Collection on Computational Humanities Data of the Journal of Open Humanities Data, which accepts submissions on a rolling basis.
+
+>> Important dates:
+(Time zone: Anywhere on Earth)
+- Submission deadline: July 2, 2021
+- Notification to authors: September 3, 2021
+- Camera-ready: September 17, 2021
+- Conference: November 17 - November 19, 2021
+
+>> Program committee:
+https://2021.computational-humanities-research.org/people/
+
+>> Organizers:
+- Tara Andrews, University of Vienna
+- Manuel Burghardt, Computational Humanities, University of Leipzig
+- Giovanni Colavizza, University of Amsterdam
+- Maud Ehrmann, École Polytechnique Fédérale de Lausanne
+- Folgert Karsdorp, Meertens Institute
+- Mike Kestermont, CLiPS
+- Enrique Manjavacas, Universiteit Antwerpen
+- Barbara McGillivray, Alan Turing Institute/University of Cambridge
+- George Mikros, University of Athens
+- Adina Nerghes, Wageningen University & Research,
+- Kristoffer Nielbo, University of Aarhus
+- Michael Piotrowski, University of Lausanne
+- Joris van Zundert, Huygens ING - KNAW
+- Melvin Wevers, University of Amsterdam
+
