@@ -1,9 +1,9 @@
-=====================
-FORMATTING - TO CHECK
+================================================
+>> !! FORMATTING - CHECK BELOW BEFORE SENDING !! <<
 - lines with '>>' => the text should be in bold
 - links: either full/verbatim or hyperlinks.
 - bullet lists: depends on mailer, to be checked on a case by case basis
-=====================
+================================================
 
 
 =====================
