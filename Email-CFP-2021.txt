@@ -26,7 +26,7 @@ Hashtag: #chr2021
 Contact: info@computational-humanities-research.org
 
 We are very honoured and pleased the following speakers have accepted to give keynotes at CHR2021.
-- Jacob Eisenstein (Georgia Institute of Technology)
+- Jacob Eisenstein (Google AI)
 - Iza Romanowska (Aarhus Institute of Advanced Studies)
 - Sara Tonelli (Digital Humanities Research Unit FBK)
 
