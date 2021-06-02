@@ -79,7 +79,7 @@ https://2021.computational-humanities-research.org/people/
 - Folgert Karsdorp, Meertens Institute
 - Mike Kestermont, CLiPS
 - Enrique Manjavacas, Universiteit Antwerpen
-- Barbara McGillivray, Alan Turing Institute/University of Cambridge
+- Barbara McGillivray, The Alan Turing Institute and University of Cambridge
 - George Mikros, University of Athens
 - Adina Nerghes, Wageningen University & Research,
 - Kristoffer Nielbo, University of Aarhus
